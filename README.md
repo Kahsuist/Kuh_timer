@@ -1,4 +1,4 @@
-# Автокормушка для кота. ESP-32, WiFi, Bluetooth, расписание.
+# Кухонный таймер + пищевой термометр + духовка.
 
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
